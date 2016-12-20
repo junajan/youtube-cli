@@ -1,4 +1,5 @@
 #!/usr/bin/env node
 
+console.log("Running youtube-cli")
 var YoutubeCli = require('../dist/main.js').default;
 (new YoutubeCli()).process(process.argv);
