@@ -1,6 +1,6 @@
 {
   "name": "youtube-cli",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Youtube command line interface tool for downloading youtube videos in audio format",
   "main": "dist/main.js",
   "scripts": {
