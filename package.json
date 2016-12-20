@@ -15,7 +15,7 @@
     "test": "echo \"Oooooh... no tests here\" && exit 1"
   },
   "bin": {
-    "youtube-cli": "bin/youtube"
+    "youtube": "bin/youtube"
   },
   "engines": {
     "node": ">=4.5",
