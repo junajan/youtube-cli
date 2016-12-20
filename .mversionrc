@@ -6,4 +6,4 @@
     "postcommit": "git push && git push --tags && npm publish",
     "postupdate": "echo 'New version v%s tagged and released'"
   }
-}npm r
+}
